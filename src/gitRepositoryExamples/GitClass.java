@@ -6,6 +6,8 @@ public class GitClass {
 		System.out.println("Git Repository");
 		System.out.println("Git Repository");
 		System.out.println("Git Repository");
+
+		System.out.println("Git Repository");
 		
 	}
 
